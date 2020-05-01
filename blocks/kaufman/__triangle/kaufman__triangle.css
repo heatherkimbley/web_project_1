@@ -7,4 +7,13 @@
     width: 877px;
     background-image: url("../../../images/kaufman-triangle.svg");
     background-size: cover;
+    z-index: -1;
   }
+
+  /* 
+     THANK YOU SO MUCH FOR EXPLAINING THIS TO ME!
+     I kept changing this z-index to -1 but it would 
+     hide behind my background and I couldn't figure
+     out how to make it behind the text but in front 
+     of the black background color. THANK YOU! 
+  */
