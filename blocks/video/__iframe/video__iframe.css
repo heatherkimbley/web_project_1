@@ -1,1 +1,12 @@
-/* empty, delete */
+.video__iframe {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    max-width: 515px;
+    max-height: 316px;
+    border: none;
+}
+
+.video__iframe:first-of-type {
+    margin-right: 20px;
+}
