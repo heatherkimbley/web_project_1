@@ -1,8 +1,10 @@
 .resources__logo {
   max-width: 270px;
   max-height: 38px;
-  align-items: center;
-  list-style: none;
   padding: 0;
   margin: 0;
+}
+
+.resources__logo img {
+  max-width: 100%;
 }
